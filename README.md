@@ -82,4 +82,4 @@ Segurança: Tenha cuidado ao compartilhar seus dados pessoais ao usar qualquer t
  
  
 ## Autor
-Felipe André de Freitas [GitHub]
+Felipe André de Freitas [https://github.com/Felipe-freitas552/conversor-moeda]
